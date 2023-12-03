@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Yurii.
 - 👀 I have been working as a web designer and user interface developer for 4 years. Also, I develop on CMS, especially WordPress.
-- 🌱 I’m currently learning FullStack development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 FullStack development.
+
 
 <!---
 zlotin/zlotin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
